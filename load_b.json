@@ -1,2 +1,55 @@
-{ "id": "touchvpn"
+{
+  "0": {
+    "id": "6",
+    "name": "Live Cricket Match",
+    "description": "Live Scores Ball by Ball Commentary",
+    "live_url": "https://buc01.jobdone.top:8088/live/webcricn04/playlist.m3u8?id=114607&pk=aee5152e1cec70c296ca0342cd4c2fa88757af0d4cd41b8dda6afc5b8b89ebd09cf3e46d902521a4275afcaa9f2f0929b2899e0e14651d193fa731d8d5ac1203",
+    "thumbnail": "https://i.ytimg.com/vi/nBsScWBXH1Q/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBiKJtI1rimyNl7JF46DfiUKawPJg",
+    "category": "Sports"
+  },
+  "1": {
+    "id": "5",
+    "name": "IPL DC vs LSG - EN",
+    "description": "Live Scores Ball by Ball Commentary",
+    "live_url": "https://but1.jobdone.top:8088/live/webcricn02/playlist.m3u8?id=115656&pk=78ef0edfe3b27a0295577a2290707d84a1dc9166f8ec8f84dfc92d67f8f8e4b59cf3e46d902521a4275afcaa9f2f0929b2899e0e14651d193fa731d8d5ac1203",
+    "thumbnail": "https://i0.wp.com/cricicc.com/wp-content/uploads/2016/02/live-cricket-streaming.png",
+    "facebook": "https://www.facebook.com/",
+    "twitter": "https://www.x.com/",
+    "youtube": "https://www.youtube.com/",
+    "website": "https://www.google.com/",
+    "category": "Sports"
+  },
+  "2": {
+    "id": "4",
+    "name": "Fancode - IRE vs PAK",
+    "description": "Live Scores Ball by Ball Commentary",
+    "live_url": "https://buc01.jobdone.top:8088/live/webcricn04/playlist.m3u8?vidictid=19860898572&id=114607&pk=aee5152e1cec70c296ca0342cd4c2fa88757af0d4cd41b8dda6afc5b8b89ebd09cf3e46d902521a4275afcaa9f2f0929b2899e0e14651d193fa731d8d5ac1203",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/b5ed37186960457.657f0d358f683.jpg",
+    "category": "Sports"
+  },
+  "3": {
+    "id": "3",
+    "name": "Toffe Sports",
+    "description": "Live Cricket Match Streaming Online & Cricket Highlights & Videos with FanCode. Get Live Scores & Coverage, Ball by Ball Commentary, News, Fantasy Tips",
+    "live_url": "https://its-nayeemparvez.xyz/toffee/stream.php?id=match-1&hls=master_640.m3u8",
+    "thumbnail": "https://downloadr2.apkmirror.com/wp-content/uploads/2023/06/24/6490a7ce043bb_com.banglalink.toffeetv-384x384.png",
+    "category": "Sports"
+  },
+  "4": {
+    "id": "2",
+    "name": "IRE vs PAK Sports",
+    "description": "Live Cricket Match Streaming Online & Cricket Highlights & Videos with FanCode. Get Live Scores & Coverage, Ball by Ball Commentary, News, Fantasy Tips",
+    "live_url": "https://rolex-dr-strange.iron-man-tony-stark.workers.dev/primary/99726_english_hls_5103ta-di/index.m3u8",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png",
+    "category": "Sports"
+  },
+  "5": {
+    "id": "1",
+    "name": "IPL - DC vs LSG - HN",
+    "description": "Live Cricket Match Streaming Online & Cricket Highlights & Videos with FanCode. Get Live Scores & Coverage, Ball by Ball Commentary, News, Fantasy Tips",
+    "live_url": "https://but1.jobdone.top:8088/live/webcricn02/playlist.m3u8?vidictid=198609659809&id=115656&pk=78ef0edfe3b27a0295577a2290707d84a1dc9166f8ec8f84dfc92d67f8f8e4b59cf3e46d902521a4275afcaa9f2f0929b2899e0e14651d193fa731d8d5ac1203",
+    "thumbnail": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/lrp_AtSy_400x4002021083109380120210831094303.jpg",
+    "category": "Sports"
+  }
+   
 }
